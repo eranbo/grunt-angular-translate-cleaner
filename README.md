@@ -25,7 +25,7 @@ During development phase we add new introduced strings to our resource files.
 Since translation takes time in many development processes sometimes it's necessary to go to production but with fallback to main language.
 While having keys that haven't translated yet, those keys need to be removed from the resource file in order for angular translate fallback language to work.
 This task comes to remove those keys from JSON files.
-Best practice is to use this task on Staging and Production build systems while leaving the untranslated keys in QA environment.
+Best practice is to use this task on Staging build systems while leaving the untranslated keys in QA environment.
 
 For example, having this JSON files:
 en.json - 
