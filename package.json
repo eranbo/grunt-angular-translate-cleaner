@@ -1,7 +1,7 @@
 {
   "name": "grunt-angular-translate-cleaner",
   "description": "For angular translate JSON resource files. Help in removing keys with degined prefix for production",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/eranbo/grunt-angular-translate-cleaner",
   "author": {
     "name": "eranbo",
